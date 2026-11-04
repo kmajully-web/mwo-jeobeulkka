@@ -1,0 +1,12 @@
+{
+  "name": "뭐 접을까?",
+  "short_name": "뭐 접을까",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFEFA",
+  "theme_color": "#E8553E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
